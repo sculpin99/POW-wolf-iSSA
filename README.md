@@ -1,0 +1,2 @@
+This code is associated with the manuscript in review (2024-06-17) Gregovich et al. Vegetation influences wolf fine-scale habitat selection and movement rate in a logged coastal rainforest.
+It is organized into the main model-running functions implemented via the R targets package, and functions outside of the targets workflow used for RSS and movement predictions across covariate values and graphics included in the manuscript.
